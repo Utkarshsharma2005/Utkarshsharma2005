@@ -1,4 +1,4 @@
-Hi there 👋, Utkarsh sharma 
+# Hi there 👋, Utkarsh sharma 
 <img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner" src="https://github.com/user-attachments/assets/7a86bdbe-f278-4ed2-b1ea-77cd78f0dc12" />
 
 # 💫 About Me:
@@ -27,7 +27,7 @@ Hi there 👋, Utkarsh sharma
 ---
 [![](https://visitcount.itsvg.in/api?id=Utkarshsharma2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+
 
 <!--
 **Utkarshsharma2005/Utkarshsharma2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
