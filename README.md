@@ -1,5 +1,6 @@
 # Hi there 👋, Utkarsh sharma 
-<img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner" src="https://github.com/user-attachments/assets/7a86bdbe-f278-4ed2-b1ea-77cd78f0dc12" />
+<img width="3584" height="1184" alt="Gemini_Generated_Image_62byz762byz762by" src="https://github.com/user-attachments/assets/00e2ba08-4165-4331-bc38-bbd50629e406" />
+
 
 # 💫 About Me:
 🌱 About Me<br><br>🎓 Pursuing BCA focused on becoming a **Full Stack Developer**.<br>💡 Passionate about *Web Development*, *Machine Learning*, and building applications with **Generative AI**.<br>📊 Currently learning **ReactJS, Node.js, Python, MongoDB, Next.js, TypeScript, and AWS services.**<br>🛠️ I'm currently working on **scalable web apps and exploring ML deployment strategies.**<br>🤝 I’m looking to collaborate on **Full Stack projects (MERN) and Generative AI research.**<br>💬 Ask me about **Web Development, Machine Learning, Generative AI, or latest tech.**<br>⚡ Fun fact: **Coding ke bina mera din adhoora hai, aur coffee break = solved bugs! ☕**
